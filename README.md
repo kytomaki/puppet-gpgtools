@@ -1,6 +1,6 @@
 # GPGTools for Boxen
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-gpgtools.png?branch=master)](https://travis-ci.org/hakamadare/puppet-gpgtools)
+[![Build Status](https://travis-ci.org/boxen/puppet-gpgtools.svg?branch=master)](https://travis-ci.org/boxen/puppet-gpgtools)
 
 This Boxen module installs [GPGTools](https://gpgtools.org/).
 
